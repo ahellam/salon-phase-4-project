@@ -1,5 +1,7 @@
 <img width="1219" alt="salon db" src="https://user-images.githubusercontent.com/95246777/167010900-c04e9153-44e1-456f-8435-279838952e51.png">
-![salon wireframe](https://user-images.githubusercontent.com/95246777/167010918-d67bdcbc-5d6f-41fd-a7da-0b8eb10039e3.jpg)
+
+<img width="678" alt="salon wireframe" src="https://user-images.githubusercontent.com/95246777/167011376-42c84045-3428-4a67-9ec8-3059c50f18fd.png">
+
 Hair Salon Model
 
 MVP: 
