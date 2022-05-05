@@ -1,3 +1,24 @@
+<img width="1219" alt="salon db" src="https://user-images.githubusercontent.com/95246777/167010900-c04e9153-44e1-456f-8435-279838952e51.png">
+![salon wireframe](https://user-images.githubusercontent.com/95246777/167010918-d67bdcbc-5d6f-41fd-a7da-0b8eb10039e3.jpg)
+Hair Salon Model
+
+MVP: 
+As a user I can:
+- Log into the site as the salon admin
+- View a list of all clients/appointments/stylists with their related data 
+- Create a new appointment with  client info, a stylist, description of service, and total price
+- Update or delete an appointment
+
+Stretch:
+- Price multipliers based off an attribute on the Stylist table of "popularity" 
+- Logging in as a client or stylist (non admin) to CRUD only their permitted data
+- Incorporate a schedule/calendar 
+- Possibly adding in product sales
+
+
+
+
+
 # Project Template: React/Rails API
 
 ## Description
